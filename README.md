@@ -1,5 +1,3 @@
-## Hi, I'm Zain.
-
 ```bash
 [zain@zainahmad.swe ~]$ neofetch
 
@@ -18,5 +16,5 @@
 
 [zain@zainahmad.swe ~]$ neofetch
 ```
-## real talk
-I enjoy programming, but I also despise it just enough to keep me from being the next Linus Torvalds.
+## Hi, I'm Zain.
+A current cs undergrad studying @ University of Guelph.
