@@ -1,4 +1,4 @@
-## Hello 👋
+## Hi, I'm Zain.
 
 ```bash
 [zain@zainahmad.swe ~]$ neofetch
@@ -17,3 +17,6 @@
 ▒▒▒▒▀████████████▀▒▒▒▒    Memory: 1000Mib / 61035.2
 
 [zain@zainahmad.swe ~]$ neofetch
+```
+#real talk
+I enjoy programming, but I also despise it just enough to keep me from being the next Linus Torvalds.
