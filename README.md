@@ -1,5 +1,6 @@
 ## Hello 👋
 
+```bash
 [zain@unemployed ~]$ neofetch
 
 ▒▒▒▒▒▄██████████▄▒▒▒▒▒    zain@unemployed
