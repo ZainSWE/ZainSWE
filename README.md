@@ -14,7 +14,7 @@
 ▒▒▒▐██▄▒▒▒▒▒▒▒▒▄██▌▒▒▒    GPU: Nvidia RTX 4070Ti Super
 ▒▒▒▒▀████████████▀▒▒▒▒    Memory: 1000Mib / 61035.2
 
-[zain@zainahmad.swe ~]$ neofetch
+[zain@zainahmad.swe ~]$
 ```
 ## Hi, I'm Zain.
 A current cs undergrad studying @ University of Guelph.
