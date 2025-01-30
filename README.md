@@ -1,3 +1,5 @@
+## Hi, I'm Zain.
+A current cs undergrad studying @ University of Guelph.
 ```bash
 [zain@zainahmad.swe ~]$ neofetch
 
@@ -16,5 +18,3 @@
 
 [zain@zainahmad.swe ~]$
 ```
-## Hi, I'm Zain.
-A current cs undergrad studying @ University of Guelph.
