@@ -1,4 +1,4 @@
-## Hey, I'm Zain.👋🏼
+## 👋🏼 Hey, I'm Zain.
 A current cs undergrad studying @ University of Guelph.
 ```bash
 [zain@zainahmad.swe ~]$ neofetch
