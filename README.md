@@ -1,2 +1,2 @@
 ## 👋🏼 Hey, I'm Zain.
-CS undergrad studying @ University of Guelph.
+Studying Computer Science @ University of Guelph.
