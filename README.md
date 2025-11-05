@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ZainSWE/ZainSWE/main/banner.gif" alt="banner" width="100%">
 </p>
 <h1 align="left">Zain Ahmad</h1>
-<p align="left"><b>Front-End Developer & Creative Technologist</b></p>
+<p align="left"><b>Computer Science Student @ University of Guelph</b></p>
 <h2 align="left">Tech Stack</h2>
 <p align="left">
   <img src="https://cdn.simpleicons.org/c/FFFFFF" title="C" width="26" height="26" />
