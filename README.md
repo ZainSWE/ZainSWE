@@ -28,11 +28,12 @@
 
 <h2 align="left">Interests</h2>
 <p align="left">
-I'm currently exploring <b>Front-End Development</b>, <b>UX/UI Design</b>, and <b>Web3D technologies</b>, blending code with visual storytelling to create immersive experiences. Outside of programming, I enjoy working on creative hobbies and expanding my digital skills:
-</p>
+I'm a front-end developer focused on creating responsive, accessible, and visually engaging websites. My work blends technical implementation with strong design principles to deliver clean, user-centered interfaces.
+
+I’m particularly interested in the intersection of design and technology, exploring UX/UI design and Web3D to craft more immersive and interactive web experiences. Most of my projects involve building modern front-end applications using HTML, CSS, JavaScript, and sometimes frameworks where I find applicable.
+Aside from programming some of my other hobbies include:
 <p align="left">
   <b>💡 Visual Effects</b><br>
-  <b>🌌 Experimenting with ThreeJS</b><br>
   <b>🧊 3D Animation / 3D Modeling</b><br>
   <b>🎬 Video Editing & Motion Graphics</b><br>
 </p>
