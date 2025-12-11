@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZainSWE/ZainSWE/main/banner.gif" alt="banner" width="100%">
 </p>
-<h1 align="left">Zain Ahmad</h1>
+<h1 align="left">👋🏼Hello there, I'm Zain</h1>
 <p align="left"><b>Computer Science Student @ University of Guelph w/ Area of Emphasis in UX</b></p>
 
 <h2 align="left">Tech Stack</h2>
