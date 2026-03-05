@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ZainSWE/ZainSWE/main/banner.gif" alt="banner" width="100%">
 </p>
 <h1 align="left">✌🏻Yo</h1>
-<p align="left"><b>Studying Computer Science Student @ University of Guelph w/ Area of Emphasis in UX</b></p>
+<p align="left">Computer Science Student @ <b>University of Guelph</b> w/ Area of Emphasis in UX</p>
 
 <h2 align="left">Stacks</h2>
 <p align="left">
